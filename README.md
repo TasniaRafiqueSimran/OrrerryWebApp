@@ -1,4 +1,4 @@
-YOU ARE REQUESTED TO SEE OUR BOTH FIGMA AND GIT FILES AS WE HAVE BALANCED BOTH SIDES (CODING AND DESIGN).THESE DESIGNS WILL BE TURNED INTO CODE LATERON.DUE TO TIME LIMITATION, WE COULD NOT DO IT NOW.
+The Figma design is complete, while the code implementation is still in progress.
 
 FIGMA PROTOTYPE LINK:https://www.figma.com/proto/Z1YOGZ0lBSL59DNWdLVGuV/Project-NASA-SPACE-APP?node-id=220-22&node-type=frame&t=omC7bygcY78CDHoG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=220%3A22&show-proto-sidebar=1
 
